@@ -1,0 +1,120 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Astral Client V6.9",
+        "role": "The Cleanest UI in Minecraft Bedrock Edition. - PatarHD123 Astral Client is an all-in-one optimization client-resourcepack for Minecraft Bedrock Edition.  It offers a variety of features such as unlocked V-Sync and Max Framerate Settings, Optifine features and more.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/astral-v6.10.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/3.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh6.ggpht.com/Q4e4knkxakPw8Z0-_DorC4ap1nhUmdMA-qchsL7CEmSuI0BrguHnYn24xOiomX8QcZUnPq1k9erpioxUTYarnQ",
+    "view_skin": "https://lh3.googleusercontent.com/vpJQlOAnxr1f7_Dr5Kd5NeRJMSik1MJerBnVMavYyjHJksu67WVBCXmYLyGantlAN-SQXTcOIweez_SRbngBthc"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh5.ggpht.com/_Cf7ldTwiQ5zvdns6_wpRSBmbnhPCq6iqzDwzy-FrOeiQ-_vcIZO7a3R_TlNicyKtvGUe-srs3SF3uBoS-B8UQ",
+    "view_skin": "https://lh3.googleusercontent.com/oIv0ukjvjE28npwetk5-ANzFqQrX2LnuzEvRP8J3rNu1qoR6iFEB_lgZ8NjPl8Tw896-GqTi6AnYcvVngsVaaw"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh6.ggpht.com/BF68-9HEirjBNryA5WycsiOi5Sdm3iQAiW203Ru9LPhRGGEGwD5CXLm8qrlHtXr2p3w0w_jH7y32ysGn4aT9cQ",
+    "view_skin": "https://lh3.googleusercontent.com/KTo6oiba3lfd8JWTg25XAvjpNzyzFN_My7-NwDkQIwl9Ntrd9QjXgJCNXxRAOgehgOUMHtl--H0WlvuwY2LWHA"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh4.ggpht.com/CgLYhP2brYZhi6h8DhaweNYLTNiRn1ecdi1mEDuWaFedSIf6TsHL7OonA6fXKdGqpe_rtkjX5HTpZaqM5orB-no",
+    "view_skin": "https://lh3.googleusercontent.com/tNkh69NLyq9axD77ZHVn6uSTqeZlEz9rpFjZhtHL7XChApbslQzsQb21O4XLIJmZ-goX6uuqUIurszH59_lf5Q"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.ggpht.com/c5ekshRR6nQzwKEPSc7zB_qvbkbdtpNzM45SDZP0JGTOOviEnggZv2231pXBBdds4xKySF0tTGLnFPDRDUikP_c",
+    "view_skin": "https://lh3.googleusercontent.com/sDr6zb5q3C8laytCRkhnecLM3Kp3GU-YhNFm0Y2AtsplUiUpjV36s6RPFxYAxBW-k0B1ykF-sU8mhQZ3LGU9WQ"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.ggpht.com/ovWxPoqX2fHQYtNqp4_5FFyNUj09YElM50CWl3eYu9yX1RsaPHWAbHAPpQhYZVAnXJFLfE6Y6rorcsFcviklLg",
+    "view_skin": "https://lh3.googleusercontent.com/Vos-FuO64iKkT5ofAC_YLRAJw4xZ_osrBSt-tV8QMx7c9NBK5ffaa5vcicerCmlqvCyNa78fCO21vlGKNwASOg"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
