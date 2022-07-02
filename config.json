@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,12 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Astral Client V6.9",
-        "role": "The Cleanest UI in Minecraft Bedrock Edition. - PatarHD123 Astral Client is an all-in-one optimization client-resourcepack for Minecraft Bedrock Edition.  It offers a variety of features such as unlocked V-Sync and Max Framerate Settings, Optifine features and more.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/astral-v6.10.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/3.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Java UI/8/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
